@@ -1,0 +1,28 @@
+Hunter Maldonado
+January 28, 2019
+How to comment code in c++: you type // to start out and the rest is a comment. For 
+multiple lines of code start with */ and end with /* 
+How to comment in python: you must type # first
+What kind of extension is .md: .md is a mark down file extension which is basically one
+of the most basic types of text
+
+
+Feb 19, 2019
+Lab 02
+To create type T and its pointer you must craete a new node and for that and then 
+for it's pointer you can use -> to say what it is pointing to.
+
+Feb 25, 2019
+Lab03
+The pythons modules that I imported in here are basically the operands and such. The class of the ops variable is 
+basically a dictionary and a set of key values that are used throughout. There are lists and tupules
+that are also built in. 
+
+Mar 4, 2019
+Lab04
+To declare a "record" structure in C++ it would basically loook like the example below:
+struct Node {
+	int value;
+	struct Node * rightNode = NULL;
+	struct Node * leftNode = NULL;
+};
